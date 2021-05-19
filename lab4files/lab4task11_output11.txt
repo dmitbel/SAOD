@@ -1,0 +1,12 @@
+True	x
+True	(x)
+True	(x+y)
+True	(x+(y-z))
+True	(x+y+(y-z))
+True	(x+y)+z
+True	z+x+y+(z)
+False	xx+(y-x)
+False	(x++)
+False	(x+y
+False	x+y)
+False	((x)
